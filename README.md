@@ -1,4 +1,11 @@
 ## Hi there 👋
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white
+https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
+https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
+https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white
 
 <!--
 **goeungoni/goeungoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
