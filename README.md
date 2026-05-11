@@ -1,3 +1,6 @@
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=fef501&height=120&text=Hello%20Goeun%20World~!&animation=&fontColor=000000&fontSize=50" /> </div>
+    
 ## 김고은(Koeun Kim)
 👩‍💻 Data Analyst & Data Scientist
 
