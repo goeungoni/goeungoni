@@ -20,6 +20,8 @@
 ## 📫Contact
 Email: kimgo812@naver.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goeungoni&show_icons=true&theme=radical)
+
 <!--
 **goeungoni/goeungoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
